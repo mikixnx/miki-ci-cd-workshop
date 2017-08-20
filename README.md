@@ -3,7 +3,7 @@
 
 ### About
 
-A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://ci-cd-workshop.herokuapp.com).
+A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://ci-cd-workshop.herokuapp.com). :smile:
 
 
 #### A Note on Tooling
